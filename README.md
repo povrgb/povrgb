@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # POV RGB 
-# Varita de 8 LEDs RGB <3
+## Varita de 8 LEDs RGB <3
 
 Proyecto para realizar persistencia de la visión (POV) con una placa a medida con 8 LEDs RGB controlados con Arduino Nano.
 
