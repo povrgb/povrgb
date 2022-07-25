@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Proyecto para realizar persistencia de la visión (POV) con una placa a medida con 8 LEDs RGB controlados con Arduino Nano.
 
-## Funcionamiento
+### Funcionamiento
 
 Una hilera de luces de LED se encienden y apagan a alta frecuencia en base a secuencias de bytes enviadas por un microcontrolador (Arduino) encargado de controlar dicha rutina. Al mover el dispositivo con rapidez o al ser capturado con una cámara, utilizando larga exposición, se pueden percibir imágenes y textos.
 
@@ -31,19 +31,19 @@ V1 Las posibilidades de este software son para crear dibujos del tamaño de los 
 Si necesitás ayuda para instalar estos programas podés ver el siguiente paso a paso: SUBIR E INSERTAR LINK!!
 
 
-Hardware
+### Hardware
 
 Incorporamos el diseño de placa doble faz. Que utiliza un arduino Nano, 8 LEDs RGB ánodo común, 3 transistores NPN, 24 resistencias 220Ω, 3 resistencias 1KΩ, switch y un clip de batería.
 
 ![alt text](https://github.com/povrgb/Cosas/blob/main/img/placa_povrgb.JPG)
 
-Beca FNA
+## Beca FNA
 
 El proyecto contó con la beca Formación del Fondo nacional de las artes para su desarrollo y el dictado de un taller gratuito en Mayo-Junio de 2022 donde cada participante soldó y aprendió a programar su propia placa.
 
 ![alt text](https://github.com/povrgb/Cosas/blob/main/img/flyerCuadrado.png)
 
-Registro y pruebas del taller
+### Registro y pruebas del taller
 
 ![alt text](https://github.com/povrgb/Cosas/blob/main/img/pruebas0.JPG)
 ![alt text](https://github.com/povrgb/Cosas/blob/main/img/taller0.JPG)
