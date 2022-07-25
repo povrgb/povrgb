@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 # POV RGB 
 # Varita de 8 LEDs RGB <3
 
@@ -36,30 +35,31 @@ Hardware
 
 Incorporamos el diseño de placa doble faz. Que utiliza un arduino Nano, 8 LEDs RGB ánodo común, 3 transistores NPN, 24 resistencias 220Ω, 3 resistencias 1KΩ, switch y un clip de batería.
 
-![alt text](https://github.com/povrgb/Cosas/img/placa_povrgb.JPG)
+![alt text](https://github.com/povrgb/Cosas/blob/main/img/placa_povrgb.JPG)
 
 Beca FNA
 
 El proyecto contó con la beca Formación del Fondo nacional de las artes para su desarrollo y el dictado de un taller gratuito en Mayo-Junio de 2022 donde cada participante soldó y aprendió a programar su propia placa.
 
-![alt text](https://github.com/povrgb/Cosas/img/flyerCuadrado.png)
+![alt text](https://github.com/povrgb/Cosas/blob/main/img/flyerCuadrado.png)
 
 Registro y pruebas del taller
 
-![alt text](https://github.com/povrgb/Cosas/img/pruebas0.JPG)
-![alt text](https://github.com/povrgb/Cosas/img/taller0.JPG)
-![alt text](https://github.com/povrgb/Cosas/img/taller1.jpg)
-![alt text](https://github.com/povrgb/Cosas/img/taller2.jpg)
-![alt text](https://github.com/povrgb/Cosas/img/taller3.jpg)
-![alt text](https://github.com/povrgb/Cosas/img/taller4.JPG)
-![alt text](https://github.com/povrgb/Cosas/img/DSC_0011_marcia.jpg)
-![alt text](https://github.com/povrgb/Cosas/img/DSC_0022_lucy.jpg)
-![alt text](https://github.com/povrgb/Cosas/img/DSC_0023_cele.jpg)
-![alt text](https://github.com/povrgb/Cosas/img/DSC_0030_carlos.jpg)
-![alt text](https://github.com/povrgb/Cosas/img/DSC_0031_ushi.jpg)
-![alt text](https://github.com/povrgb/Cosas/img/DSC_0051_seba.jpg)
-![alt text](https://github.com/povrgb/Cosas/img/IMG_2924_seba.jpg)
-![alt text](https://github.com/povrgb/Cosas/img/DSC_0072_leila.jpg)
-![alt text](https://github.com/povrgb/Cosas/img/DSC_0090_nicoFla.jpg)
-![alt text](https://github.com/povrgb/Cosas/img/IMG_7731_ima.jpg)
-![alt text](https://github.com/povrgb/Cosas/img/DSC_0073_todos.jpg)
+![alt text](https://github.com/povrgb/Cosas/blob/main/img/pruebas0.JPG)
+![alt text](https://github.com/povrgb/Cosas/blob/main/img/taller0.JPG)
+![alt text](https://github.com/povrgb/Cosas/blob/main/img/taller1.jpg)
+![alt text](https://github.com/povrgb/Cosas/blob/main/img/taller2.jpg)
+![alt text](https://github.com/povrgb/Cosas/blob/main/img/taller3.jpg)
+![alt text](https://github.com/povrgb/Cosas/blob/main/img/taller4.JPG)
+![alt text](https://github.com/povrgb/Cosas/blob/main/img/DSC_0011_marcia.jpg)
+![alt text](https://github.com/povrgb/Cosas/blob/main/img/DSC_0022_lucy.jpg)
+![alt text](https://github.com/povrgb/Cosas/blob/main/img/DSC_0023_cele.jpg)
+![alt text](https://github.com/povrgb/Cosas/blob/main/img/DSC_0030_carlos.jpg)
+![alt text](https://github.com/povrgb/Cosas/blob/main/img/DSC_0031_ushi.jpg)
+![alt text](https://github.com/povrgb/Cosas/blob/main/img/DSC_0051_seba.jpg)
+![alt text](https://github.com/povrgb/Cosas/blob/main/img/IMG_2924_seba.jpg)
+![alt text](https://github.com/povrgb/Cosas/blob/main/img/DSC_0072_leila.jpg)
+![alt text](https://github.com/povrgb/Cosas/blob/main/img/DSC_0090_nicoFla.jpg)
+![alt text](https://github.com/povrgb/Cosas/blob/main/img/IMG_7731_ima.jpg)
+![alt text](https://github.com/povrgb/Cosas/blob/main/img/DSC_0073_todos.jpg)
+
