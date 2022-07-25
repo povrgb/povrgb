@@ -47,9 +47,9 @@ Registro y pruebas del taller
 
 ![alt text](https://github.com/povrgb/Cosas/blob/main/img/pruebas0.JPG)
 ![alt text](https://github.com/povrgb/Cosas/blob/main/img/taller0.JPG)
-![alt text](https://github.com/povrgb/Cosas/blob/main/img/taller1.jpg)
-![alt text](https://github.com/povrgb/Cosas/blob/main/img/taller2.jpg)
-![alt text](https://github.com/povrgb/Cosas/blob/main/img/taller3.jpg)
+![alt text](https://github.com/povrgb/Cosas/blob/main/img/taller1.JPG)
+![alt text](https://github.com/povrgb/Cosas/blob/main/img/taller2.JPG)
+![alt text](https://github.com/povrgb/Cosas/blob/main/img/taller3.JPG)
 ![alt text](https://github.com/povrgb/Cosas/blob/main/img/taller4.JPG)
 ![alt text](https://github.com/povrgb/Cosas/blob/main/img/DSC_0011_marcia.jpg)
 ![alt text](https://github.com/povrgb/Cosas/blob/main/img/DSC_0022_lucy.jpg)
@@ -60,6 +60,6 @@ Registro y pruebas del taller
 ![alt text](https://github.com/povrgb/Cosas/blob/main/img/IMG_2924_seba.jpg)
 ![alt text](https://github.com/povrgb/Cosas/blob/main/img/DSC_0072_leila.jpg)
 ![alt text](https://github.com/povrgb/Cosas/blob/main/img/DSC_0090_nicoFla.jpg)
-![alt text](https://github.com/povrgb/Cosas/blob/main/img/IMG_7731_ima.jpg)
+![alt text](https://github.com/povrgb/Cosas/blob/main/img/IMG_7731_ima.JPG)
 ![alt text](https://github.com/povrgb/Cosas/blob/main/img/DSC_0073_todos.jpg)
 
